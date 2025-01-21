@@ -31,7 +31,7 @@
 <a href="https://qr-dexter-md-b3cdc18409e4.herokuapp.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
 ## DEPLOY IN HEROKU
 
- [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/DEXTER-BOT-1/DEXTER-V1-MD/)
+ [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/KIND-GHOST02/GHOST-MD-V3.git)
 
    </details>
 </P>
@@ -44,11 +44,11 @@
 
 ## Contributions
 
-Contributions to Dexter-Md are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+Contributions to Ghost-Md are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
 ## License
 
-The DEXTER-MD is released.
+The GHOST-MD is released.
 
 Enjoy the diverse features of the DEXTER-MD  to enhance your conversations and make your WhatsApp experience more interesting!
 
